@@ -1,13 +1,13 @@
-bio {
+#bio {
     text-align: center;
     color: white;
     background-color: black;
 }
 
-name {
+#name {
     text-align: left;
 }
 
-contact {
+#contact {
     text-align: right;
 }
